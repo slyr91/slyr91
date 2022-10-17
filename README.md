@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @slyr91
-- 👀 I’m interested in becoming a professional software engineer and solving unique challenges.
-- 🌱 I’m currently learning UI and UX design to make my applications more pleasant to look at.
-- 💞️ I’m looking to collaborate on Java and Python related projects to further devlop my skills in those languages.
-- 📫 I can be reached at my email address slyr91@gmail.com.
+👋 Hello, I’m Daryl Arouchian and welcome to my GitHub Profile. You can find my contributions under the handle @slyr91
+<p align="left">
+  <img src="https://gpvc.arturio.dev/slyr91" alt="Profile Views">
+</p>
+- 👀 I’m interested in becoming a professional software engineer and solving unique challenges.</br>
+- 🌱 I’m currently learning UI and UX design to make my applications more pleasant to look at.</br>
+- 💞️ I’m looking to collaborate on Java and Python related projects to further devlop my skills in those languages.</br>
+- 📫 I can be reached at my email address slyr91@gmail.com.</br>
 
 <!---
 slyr91/slyr91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
